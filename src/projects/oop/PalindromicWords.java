@@ -8,7 +8,7 @@ public class PalindromicWords {
 
 		String rev = reverseWord(pal);
 
-		if (pal.equals(rev)) {
+		if (pal.equalsIgnoreCase(rev)) {
 			return true;
 		}
 		return false;
