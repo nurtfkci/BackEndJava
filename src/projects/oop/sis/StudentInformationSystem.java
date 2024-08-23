@@ -1,4 +1,4 @@
-package projects.oop;
+package projects.oop.sis;
 
 public class StudentInformationSystem {
 
